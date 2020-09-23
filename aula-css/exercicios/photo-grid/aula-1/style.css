@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background: #dedede;
     text-align: center;
@@ -38,3 +39,45 @@ header{
     width: 100px;
 }
   
+=======
+body{
+    background: #dedede;
+    text-align: center;
+}
+
+h1 {
+    color:blue;
+    font-size: 32px;
+  
+}
+
+header{
+    margin:0;
+    background-color: #dedede;
+    height: 200px;
+}
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    width: 600px;
+    padding: 10px;
+    background: #ffffff;
+    margin: 20px;
+}
+
+.card a{
+    font-style: 16px;
+    color: black;
+
+}
+ 
+.card img{
+    width: 100px;
+}
+  
+>>>>>>> 10aa7b5113ec574c8379dc79698901107f017866
